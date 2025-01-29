@@ -1,10 +1,9 @@
 # 👋 Olá, eu sou Guilherme!
 
-Bem-vindo ao meu perfil do GitHub! Sou um Desenvolvedor Full-Stack com foco em Back-End, apaixonado por Inteligência Artificial, Realidade Aumentada/Virtual e Automação.
+Bem-vindo ao meu perfil do GitHub! Sou um Desenvolvedor Full-Stack, apaixonado por Inteligência Artificial, Realidade Aumentada/Virtual e Automação.
 
 ## 🚀 Sobre Mim
 
-- 🔭 Atualmente, estou desenvolvendo um projeto de renderização 3D baseado na vida real (AR/VR).
 - 🌱 No momento, estou aprendendo Rust e explorando redes.
 - 📫 Vamos nos conectar! [Instagram](https://instagram.com/only.polux)
 - ⚡ Curiosidade: Comecei a desenvolver aplicações aos 12 anos.
