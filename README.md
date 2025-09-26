@@ -38,3 +38,4 @@ Bem-vindo ao meu perfil do GitHub! Sou um Desenvolvedor Full-Stack, apaixonado p
 ## 📈 Estatísticas do GitHub
 
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Poluxin21&show_icons=true&hide_title=true&count_private=true&theme=radical&cache_seconds=3600)
+![Estatisticas do GitHub](https://github-readme-stats.vercel.app/api/top-langs/?username=Poluxin21&theme=dracula&layout=compact&custom_title=technologies&langs_count=5)
