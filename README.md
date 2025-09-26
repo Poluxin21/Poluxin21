@@ -11,6 +11,8 @@ Bem-vindo ao meu perfil do GitHub! Sou um Desenvolvedor Full-Stack, apaixonado p
 ## 🛠️ Tecnologias & Ferramentas
 
 ### 🌐 Linguagens
+![NodeJs](https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-8CC84B?style=flat-square&logo=node.js&logoColor=white)
@@ -21,10 +23,17 @@ Bem-vindo ao meu perfil do GitHub! Sou um Desenvolvedor Full-Stack, apaixonado p
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B400?style=flat-square&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1.svg?logo=arch-linux&logoColor=white)
+
 
 ## 🌍 Conecte-se Comigo
-
-- [LinkedIn](https://www.linkedin.com/in/guilhermebento1/)
+<br>
+<a href="https://www.linkedin.com/in/guilhermebento1/">
+        <img 
+            alt="Linkedin" 
+            title="Me siga no Linkedin" 
+            src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+    </a>
 
 ## 📈 Estatísticas do GitHub
 
