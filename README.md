@@ -4,9 +4,11 @@ Bem-vindo ao meu perfil do GitHub! Sou um Desenvolvedor Full-Stack, apaixonado p
 
 ## 🚀 Sobre Mim
 
-- 🌱 No momento, estou aprendendo Rust e explorando redes.
-- 📫 Vamos nos conectar! [Instagram](https://instagram.com/only.polux)
-- ⚡ Curiosidade: Comecei a desenvolver aplicações aos 12 anos.
+- Tenho 20 anos, atuo como programador Full-Stack Pleno na empresa Privilegio Imoveis.
+- No momento estou em busca de conhecimento sobre Cibersegurança,explorando suas diversas áreas e aprendendo a proteger sistemas e redes contra ameaças cibernéticas.
+- Uma curiosidade, é que eu programo desde os 12 anos.
+- Tenho facilidade com os Frameworks QT Framework, Next, Rect, Nest, Laravel, Express, Elysa.
+- No momento estou estudando Assembly.
 
 ## 🛠️ Tecnologias & Ferramentas
 
