@@ -4,7 +4,7 @@ Bem-vindo ao meu perfil do GitHub! Sou um Desenvolvedor Full-Stack, apaixonado p
 
 ## 🚀 Sobre Mim
 
-- Tenho 20 anos, atuo como programador Full-Stack Pleno.
+- Tenho 20 anos, atuo como programador Full-Stack.
 - No momento estou em busca de conhecimento sobre Cibersegurança, explorando suas diversas áreas e aprendendo a proteger sistemas e redes contra ameaças cibernéticas.
 - Uma curiosidade, é que eu programo desde os 12 anos.
 - Tenho facilidade com os Frameworks QT Framework, Next, Rect, Nest, Laravel, Express, Elysa.
